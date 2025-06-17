@@ -7,7 +7,7 @@ This is a simple Currency Converter web application that allows users to convert
 
 ## 🌐 Live Demo
 
-👉 Click here to view the live site(https://your-site-name.netlify.app)
+👉 Click here to view the live site[(https://ratewave.netlify.app/)]
 
 ---
 
