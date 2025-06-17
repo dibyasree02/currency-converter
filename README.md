@@ -7,7 +7,7 @@ This is a simple Currency Converter web application that allows users to convert
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](https://your-site-name.netlify.app)
+👉 Click here to view the live site(https://your-site-name.netlify.app)
 
 ---
 
@@ -32,3 +32,13 @@ This is a simple Currency Converter web application that allows users to convert
 ## 🚀 How to Run Locally
 
 1. Clone the repository: git clone https://github.com/dibyasree02/currency-converter.git
+2. Navigate to the folder: cd currency-converter
+3. Open index.html in your browser
+No server setup needed — it's a frontend-only project!
+
+Folder Structure
+currency-converter/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
